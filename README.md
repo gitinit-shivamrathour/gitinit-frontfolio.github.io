@@ -1,9 +1,9 @@
-# Front-Based Personal Portfolio site :partying_face:
+# Upgraded Personal-folio site :partying_face:
 
-Complete Responsive Personal Folio Site using HTML5, CSS3 & JS.
+Complete Responsive Personal Folio Site using HTML5, CSS3 & JS
 
 ## Description
-This site includes a nav-section, home-section, About-me-section, My-skills-section, Services-section, contact-us-section & footer section with scroll bar. in resposinve devices it also includes a side-baar or side-nav-baar.
+This site includes a nav-section, home-section, About-me-section, My-skills-section, Services-section, contact-us-section & footer section with scroll bar. in resposinve devices it also includes a side-baar or side-nav-baar. with day-night mode functionality and chatbot system.
 
 ### Dependencies
 
@@ -18,7 +18,7 @@ This site includes a nav-section, home-section, About-me-section, My-skills-sect
 Contributors names and contact info
 
 Mr. Shivam Singh Rajput  
-email: shivampublic2001@gmail.com
+email: rtshivamsingh744@gmail.com
 
 ## License/Rights
 
