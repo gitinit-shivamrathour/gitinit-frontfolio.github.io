@@ -24,6 +24,6 @@ email: rtshivamsingh744@gmail.com
 
 This project is licensed under the Indian IT Act-2021, All Rights Reserved@Shivam.abc
 
-## Acknowledgments
+## direct-link
 
-Inspiration : yt tutorials.
+http://lnkiy.in/personalinfo-s
