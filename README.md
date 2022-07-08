@@ -30,4 +30,4 @@ https://gitinit-shivamrathour.github.io/gitinit-frontfolio.github.io/
 
 ## Qr
 
-![Test Image 1](https://github.com/gitinit-shivamrathour/gitinit-frontfolio.github.io/blob/main/qr.git.jpeg)
+![Test Image](https://github.com/gitinit-shivamrathour/gitinit-frontfolio.github.io/blob/main/qr.git.jpeg)
