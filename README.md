@@ -28,5 +28,6 @@ This project is licensed under the Indian IT Act-2021, All Rights Reserved@Shiva
 
 https://gitinit-shivamrathour.github.io/gitinit-frontfolio.github.io/
 
-## Qr-code
+## Qr
 
+![alt text] (gitinit-frontfolio.github.io/qr.git.jpeg)
