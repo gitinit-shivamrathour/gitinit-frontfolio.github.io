@@ -27,3 +27,6 @@ This project is licensed under the Indian IT Act-2021, All Rights Reserved@Shiva
 ## direct-link
 
 https://gitinit-shivamrathour.github.io/gitinit-frontfolio.github.io/
+
+## Qr-code
+
